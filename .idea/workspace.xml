@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b47ab06-51a3-40bd-be9e-640b6aab8483" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y9tstKpJf0SnaNnQCCVO1sumQg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DATI\FaceRecognizer\public\images" />
+      <recent name="E:\DATI\FaceRecognizer\views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b47ab06-51a3-40bd-be9e-640b6aab8483" name="Default Changelist" comment="" />
+      <created>1582366848159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582366848159</updated>
+      <workItem from="1582366851391" duration="316000" />
+      <workItem from="1582367191407" duration="1160000" />
+      <workItem from="1582453817950" duration="11000" />
+      <workItem from="1582453846594" duration="11318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582453825570">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582453825570" />
+    <state x="629" y="318" key="EditFileWatcherDialog" timestamp="1582455242798">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="629" y="318" key="EditFileWatcherDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582455242798" />
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1582471099207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582471099207" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1582471099207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582471099207" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1582471099207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582471099207" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1582471099207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582471099207" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1582367168495">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1582367168495" />
+  </component>
+</project>

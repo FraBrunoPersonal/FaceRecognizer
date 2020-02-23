@@ -1,0 +1,35 @@
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+  font: 14px Cursive;
+}
+
+a {
+  color: white;
+}
+
+hr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1{
+  position: relative;
+  margin-top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+div.image{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+img{
+  width: 50%;
+}
