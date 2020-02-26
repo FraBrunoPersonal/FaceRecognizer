@@ -2,9 +2,8 @@ var express = require("express");
 var router = express.Router();
 
 /* GET feautures */
-router.get('/creators', function(req, res, next) {
+router.get('/creators', function(req, res) {
     res.render('creators');
-    next();
 });
 
 module.exports = router;
