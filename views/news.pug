@@ -1,0 +1,55 @@
+doctype html
+
+html
+    head
+        title Face Recognizer
+        script(src='https://code.jquery.com/jquery-3.2.1.slim.min.js' integrity='sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN' crossorigin='anonymous')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js' integrity='sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q' crossorigin='anonymous')
+        script(src='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js' integrity='sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl' crossorigin='anonymous')
+        link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' integrity='sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm' crossorigin='anonymous')
+        link(rel='stylesheet', href='/stylesheets/style.css')
+
+    body
+        nav.navbar.navbar-expand-lg.navbar-dark.bg-dark
+            a.navbar-brand(href='#') Face Recognizer
+            button.navbar-toggler(type='button' data-toggle='collapse' data-target='#navbarNavAltMarkup' aria-controls='navbarNavAltMarkup' aria-expanded='false' aria-label='Toggle navigation')
+                span.navbar-toggler-icon
+            #navbarNavAltMarkup.collapse.navbar-collapse
+                .navbar-nav
+                    a.nav-item.nav-link(href='/') Home
+                    a.nav-item.nav-link(href='/features') Features
+                    a.nav-item.nav-link(href='/tryIt'): b Try It
+                    a.nav-item.nav-link(href='/creators') Creator
+                    a.nav-item.nav-link.active(href='/news')
+                        | News
+                        span.sr-only (current)
+
+        div.header
+            h2 Blog Name
+        div.row
+            div.leftcolumn
+                div.cardN.card
+                    h2 TITLE HEADING
+                    h5 Title description, Dec 7, 2017
+                    div.fakeimg(style='height:200px;') Image
+                    p Some text..
+                div.cardN.card
+                    h2 TITLE HEADING
+                    h5 Title description, Sep 2, 2017
+                    div.fakeimg(style='height:200px;') Image
+                    p Some text..
+            div.rightcolumn
+                div.cardN.card
+                    h2 About Me
+                    div.fakeimg(style='height:100px;') Image
+                    p Some text about me in culpa qui officia deserunt mollit anim..
+                div.cardN.card
+                    h3 Popular Post
+                    div.fakeimg Image
+                    br
+                    div.fakeimg Image
+                    br
+                    div.fakeimg Image
+                div.cardN.card
+                    h3 Follow Me
+                    p Some text..

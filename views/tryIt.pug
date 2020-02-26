@@ -10,17 +10,18 @@ html
     link(rel='stylesheet', href='/stylesheets/style.css')
 
   body
-    nav.navbar.navbar-expand-lg.navbar-dark.bg-primary
+    nav.navbar.navbar-expand-lg.navbar-dark.bg-dark
       a.navbar-brand(href='#') Face Recognizer
       button.navbar-toggler(type='button' data-toggle='collapse' data-target='#navbarNavAltMarkup' aria-controls='navbarNavAltMarkup' aria-expanded='false' aria-label='Toggle navigation')
         span.navbar-toggler-icon
       #navbarNavAltMarkup.collapse.navbar-collapse
         .navbar-nav
-          a.nav-item.nav-link(href='/tryIt') Home
+          a.nav-item.nav-link(href='/') Home
           a.nav-item.nav-link(href='/features') Features
           a.nav-item.nav-link.active(href='/tryIt')
             | Try It
             span.sr-only (current)
           a.nav-item.nav-link(href='/creators') Creator
+          a.nav-item.nav-link(href='/news') News
 
     h1(align='center') Try It
