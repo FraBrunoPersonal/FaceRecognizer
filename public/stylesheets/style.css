@@ -86,10 +86,12 @@ img{
   padding: 20px;
   margin-top: 20px;
 }
+
 .row{
   padding-left: 20px;
   padding-right: 20px;
 }
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -111,4 +113,19 @@ img{
     width: 100%;
     padding: 0;
   }
+}
+
+
+.headTeam{
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 18rem;
+  margin-top: 30px;
+}
+
+.center{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 30px;
 }

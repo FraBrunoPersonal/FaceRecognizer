@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b47ab06-51a3-40bd-be9e-640b6aab8483" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/news.pug" afterDir="false" />
+    <list default="true" id="4b47ab06-51a3-40bd-be9e-640b6aab8483" name="Default Changelist" comment="front end">
+      <change afterPath="$PROJECT_DIR$/public/images/agbo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fra.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/creators.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/features.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/tryIt.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/views/creators.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/creators.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/features.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/features.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/tryIt.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/tryIt.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +72,9 @@
       <workItem from="1582622983920" duration="116000" />
       <workItem from="1582623124705" duration="1913000" />
       <workItem from="1582656482087" duration="637000" />
-      <workItem from="1582726452220" duration="5459000" />
+      <workItem from="1582726452220" duration="6309000" />
+      <workItem from="1583056571816" duration="197000" />
+      <workItem from="1583056804703" duration="2378000" />
     </task>
     <servers />
   </component>
@@ -89,16 +83,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="front end" />
+    <option name="LAST_COMMIT_MESSAGE" value="front end" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582726508797">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582726508797" />
-    <state x="640" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582453825570">
+    <state x="640" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583056764703">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="640" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582453825570" />
+    <state x="640" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583056764703" />
     <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1582732753230">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -111,22 +107,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1582726498433" />
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1582732753360">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1583057186373">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582732753360" />
-    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1582732753360">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583057186373" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1583057186373">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582732753360" />
-    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1582732753360">
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583057186373" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1583057186372">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582732753360" />
-    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1582732753360">
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583057186372" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1583057186373">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582732753360" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583057186373" />
     <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1582475586930">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
