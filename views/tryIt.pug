@@ -24,4 +24,10 @@ html
           a.nav-item.nav-link(href='/creators') Creator
           a.nav-item.nav-link(href='/news') News
 
-    h1(align='center') Try It
+    h3  Inserisci la foto
+    form(action='/action_page.php')
+      label(for='myfile') Select a file:
+      input#myfile(type='file' name='myfile')
+      br
+      br
+      input(type='submit')
